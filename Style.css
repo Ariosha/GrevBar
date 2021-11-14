@@ -1,0 +1,7 @@
+body {
+  background-image:url("Images/GrevensMain.jpg");
+  background-size: cover;
+  background-position: 40% 60%;
+  background-position-y: 5%;
+  background-attachment: fixed;
+}
