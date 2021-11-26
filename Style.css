@@ -13,9 +13,3 @@ body {
   background-attachment: fixed;
   overflow:auto;
 }
-.mp-nav-item{
-  margin-left: 5vh;
-  margin-right: 5vh;
-  padding-left: 5vh;
-  padding-right: 5vh;
-}
